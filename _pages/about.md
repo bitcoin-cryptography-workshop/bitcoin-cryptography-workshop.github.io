@@ -26,7 +26,9 @@ This workshop's goal is to showcase these innovations and provide a platform for
 
 ---
 
-**Tentative schedule:**
+**Program**: Coming soon
+
+<!-- **Tentative schedule:**
 
 | Time | Event |
 |------|-------|
@@ -37,4 +39,4 @@ This workshop's goal is to showcase these innovations and provide a platform for
 | 12:30 – 2:00 | Lunch break |
 | 2:00 – 3:00 | Session 3 (2 talks) |
 | 3:00 – 3:30 | Coffee break |
-| 3:30 – 4:30 | Session 4 (2 talks) |
+| 3:30 – 4:30 | Session 4 (2 talks) | -->
