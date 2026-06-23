@@ -1,15 +1,15 @@
 ---
 layout: about
-title: About
+title: Workshop on Cryptography for Bitcoin
 permalink: /
 subtitle:
 
 ---
-# Workshop on Cryptography for Bitcoin
-
 ---
 
 Workshop on Cryptography for Bitcoin will be co-located with the [Science of Blockchain Conference 2026](https://www.sbc-conference.com/2026/) at Stanford, CA, USA on *July 31, 2026*.
+
+**[Registration](https://forms.gle/DX4zVUTguzwczpXaA): Attendance is free but registration is mandatory.**
 
 ---
 
