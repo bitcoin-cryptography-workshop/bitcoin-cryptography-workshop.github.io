@@ -6,7 +6,8 @@ subtitle:
 
 ---
 
-Workshop on Cryptography for Bitcoin will be co-located with the [Science of Blockchain Conference 2026](https://www.sbc-conference.com/2026/) at Stanford, CA, USA on *July 31, 2026*.
+- 📅 *July 31, 2026*
+- 📍 Stanford, CA, USA (co-located with the [Science of Blockchain Conference 2026](https://www.sbc-conference.com/2026/))
 
 **[Registration](https://forms.gle/DX4zVUTguzwczpXaA): Attendance is free but registration is mandatory.**
 
@@ -22,3 +23,18 @@ This workshop's goal is to showcase these innovations and provide a platform for
 **Organizers:**
 - [Srivatsan Sridhar](https://ssrivatsan97.github.io) (University of California, Berkeley)
 - [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley)
+
+---
+
+**Tentative schedule:**
+
+| Time | Event |
+|------|-------|
+| 9:30 – 10:00 | Breakfast |
+| 10:00 – 11:00 | Session 1 (2 talks) |
+| 11:00 – 11:30 | Coffee break |
+| 11:30 – 12:30 | Session 2 (2 talks) |
+| 12:30 – 2:00 | Lunch break |
+| 2:00 – 3:00 | Session 3 (2 talks) |
+| 3:00 – 3:30 | Coffee break |
+| 3:30 – 4:30 | Session 4 (2 talks) |

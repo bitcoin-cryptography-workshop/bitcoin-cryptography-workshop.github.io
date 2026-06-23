@@ -2,8 +2,7 @@
 layout: page
 title: Venue
 permalink: /venue
-nav: true
-nav_order: 3
+nav: false
 
 ---
 
