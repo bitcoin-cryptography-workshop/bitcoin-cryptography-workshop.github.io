@@ -65,11 +65,14 @@ layout: default
   </article>
 
   {%- if page.related_publications != null and page.related_publications.size > 0 -%}
-  {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
+  {% assign publications = page.related_publications | split: "," %}
   <h2>References</h2>
-  <div class="publications">
-    {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
-  </div>
+  <p><em>Reference keys (full bibliography rendering is unavailable in GitHub Pages builds).</em></p>
+  <ul>
+    {%- for publication in publications -%}
+      <li>{{ publication | strip }}</li>
+    {%- endfor -%}
+  </ul>
   {%- endif %}
 
   {%- if site.related_blog_posts.enabled -%}
