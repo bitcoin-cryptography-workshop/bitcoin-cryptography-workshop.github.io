@@ -12,11 +12,10 @@ Workshop on Cryptography for Bitcoin will be co-located with the [Science of Blo
 
 ---
 
-**Abstract:** The Bitcoin asset has a market capitalization worth 1.5 trillion USD as of today. Despite the huge market, the Bitcoin blockchain offers no native applications for the Bitcoin asset besides payments. This is because unlike other blockchains that host general-purpose computing platforms (smart contracts) to enable a wide range of applications, Bitcoin, by design, has a highly constrained programming environment that hinders the implementation of applications beyond payments.
-
-Nevertheless, there has been a great deal of interest recently in building secure applications for Bitcoin. These applications range from faster payments and efficient multi-signature wallets to verifying arbitrary computation on Bitcoin and bridging Bitcoin to other blockchains. This has driven a lot of innovation in cryptography in order to get around Bitcoin's limited computational capabilities. The research effort has been undertaken by several teams working parallelly, both from universities and well-funded startups that are actively bringing these ideas to production.
-
-This workshop's goal is to showcase these cryptographic innovations and present a platform for researchers from academia and industry to work together for solving further challenges.
+The Bitcoin asset has a market capitalization worth 1.5 trillion USD as of today. Despite this, the Bitcoin blockchain offers very few applications due to its highly constrained programming environment.
+Nevertheless, there has been a lot of recent interest in building secure applications for Bitcoin. These range from faster payments and efficient multi-signature wallets to verifying arbitrary computation and bridging Bitcoin to other blockchains. There is also a major effort to make Bitcoin post-quantum secure by updating its signature schemes.
+Together, these requirements have driven significant cryptographic innovation from universities and startups that are actively bringing these ideas to production.
+This workshop's goal is to showcase these innovations and provide a platform for researchers from academia and industry to collaborate on further challenges.
 
 ---
 
