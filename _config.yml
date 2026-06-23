@@ -2,24 +2,20 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: 
-middle_name: 
-last_name: 
-email: 
-  #description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  #A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-  #footer_text: >
-  #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+title: Workshop on Cryptography for Bitcoin
+first_name:
+middle_name:
+last_name:
+email:
+description: >
+  Workshop on Cryptography for Bitcoin, co-located with the Science of Blockchain Conference 2026, July 31 2026, Stanford, CA.
+keywords: bitcoin, cryptography, workshop, SBC 2026, Stanford
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://laconiccryptography.github.io/2024 # the base hostname & protocol for your site
-baseurl: /2024 # the subpath of your site, e.g. /blog/. Leave blank for root
+url: https://bitcoin-cryptography-workshop.github.io # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -104,8 +100,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note:
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -124,8 +119,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name:
+blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -274,8 +269,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: []
+  first_name: []
 
   style: apa
   locale: en

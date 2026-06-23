@@ -2,24 +2,25 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle:
 
 ---
-# TPLC: Theory and Practice of Laconic Cryptography
-
----
-
-Theory and Practice of Laconic Cryptography Workshop will be co-located with [EUROCRYPT 2024](https://eurocrypt.iacr.org/2024/) in  Zurich, Switzerland scheduled for *Saturday, May 25*.  
+# Workshop on Cryptography for Bitcoin
 
 ---
 
-**Abstract:** Laconic cryptography is an emerging paradigm that enables secure computation between potentially many senders and a ''laconic'' receiver. Abstractly, laconic cryptography can be thought of as a *reverse delegation* paradigm, where the party that does the computation is also the one that obtains the result. This approach enabled several new results such as identity-based encryption from new assumptions (CDH), rate-1 oblivious transfer, laconic function evaluation, and much more. In addition, techniques from laconic cryptography have been useful to build registration-based encryption (RBE), a new proposal to solve the key escrow problem in identity-based encryption.
+Workshop on Cryptography for Bitcoin will be co-located with the [Science of Blockchain Conference 2026](https://www.sbc-conference.com/2026/) at Stanford, CA, USA on *July 31, 2026*.
 
-This area has matured significantly over the past years, and many new primitives and applications have been proposed. Furthermore, very recent works have shown how to overcome the efficiency drawbacks of the initial constructions, opening the door for schemes that are tantalizingly close to practical. The objective of this workshop is to (i) cover foundational aspects of laconic cryptography, (ii) survey recent developments in the area, and (iii) identify outstanding challenges that remain to make laconic primitives truly practical.
+---
+
+**Abstract:** The Bitcoin asset has a market capitalization worth 1.5 trillion USD as of today. Despite the huge market, the Bitcoin blockchain offers no native applications for the Bitcoin asset besides payments. This is because unlike other blockchains that host general-purpose computing platforms (smart contracts) to enable a wide range of applications, Bitcoin, by design, has a highly constrained programming environment that hinders the implementation of applications beyond payments.
+
+Nevertheless, there has been a great deal of interest recently in building secure applications for Bitcoin. These applications range from faster payments and efficient multi-signature wallets to verifying arbitrary computation on Bitcoin and bridging Bitcoin to other blockchains. This has driven a lot of innovation in cryptography in order to get around Bitcoin's limited computational capabilities. The research effort has been undertaken by several teams working parallelly, both from universities and well-funded startups that are actively bringing these ideas to production.
+
+This workshop's goal is to showcase these cryptographic innovations and present a platform for researchers from academia and industry to work together for solving further challenges.
 
 ---
 
 **Organizers:**
-- [Nico Döttling](https://sites.google.com/site/nicodoettling/) (Helmholtz Center for Information Security (CISPA) in Saarbrücken)
-- [Sanjam Garg](https://www.cs.berkeley.edu/~sanjamg) (University of California, Berkeley)
-- [Giulio Malavolta](https://sites.google.com/view/giuliomalavolta/) (Bocconi University)
+- [Srivatsan Sridhar](https://ssrivatsan97.github.io) (University of California, Berkeley)
+- [Sanjam Garg](https://people.eecs.berkeley.edu/~sanjamg/) (University of California, Berkeley)

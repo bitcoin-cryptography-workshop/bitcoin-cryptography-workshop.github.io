@@ -3,11 +3,10 @@ layout: page
 title: Venue
 permalink: /venue
 nav: true
-nav_order: 4
+nav_order: 3
 
 ---
 
+The workshop will take place at Stanford University, Stanford, CA, USA on July 31, 2026, co-located with the [Science of Blockchain Conference 2026](https://www.sbc-conference.com/2026/).
 
-Workshop will take place in the main building of ETH (“Hauptgebäude” – HG) (tentatively) in [room D5.2](https://eurocrypt.iacr.org/2024/affiliated.php). 
-
-Workshop registration will be via the [Eurocrypt 2024 registration process](https://eurocrypt.iacr.org/2024/) with the options to register for the individual workshop days only or for workshops along with the main conference.
+Further venue details will be announced soon.
