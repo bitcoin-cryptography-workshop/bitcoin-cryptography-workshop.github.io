@@ -13,7 +13,7 @@ subtitle:
 
 ---
 
-With a market capitalization of 1.2 trillion USD, Bitcoin is the world's largest cryptocurrency — yet its highly constrained programming environment limits its applications. Despite this, there is growing interest in building secure applications on Bitcoin, from faster and private payments to bridging Bitcoin to other blockchains. There is also a concerted effort to make Bitcoin post-quantum secure by upgrading its signature schemes. Meeting these challenges has spurred significant cryptographic innovation, with implications well beyond Bitcoin itself. This workshop showcases these advances and brings together researchers from academia and industry to tackle the open problems that remain.
+With a market capitalization of more than a trillion USD, Bitcoin is the world's largest cryptocurrency — yet its highly constrained programming environment limits its applications. Despite this, there is growing interest in building secure applications on Bitcoin, from faster and private payments to bridging Bitcoin to other blockchains. There is also a concerted effort to make Bitcoin post-quantum secure by upgrading its signature schemes. Meeting these challenges has spurred significant cryptographic innovation, with implications well beyond Bitcoin itself. This workshop showcases these advances and brings together researchers from academia and industry to tackle the open problems that remain.
 
 ---
 
