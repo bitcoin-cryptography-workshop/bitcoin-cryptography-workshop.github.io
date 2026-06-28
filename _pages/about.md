@@ -6,10 +6,11 @@ subtitle:
 
 ---
 
-- 📅 July 31, 2026, 10 am to 4 pm
-- 📍 Stanford, CA, USA (co-located with the [Science of Blockchain Conference 2026](https://www.sbc-conference.com/2026/))
+- 📅 Fri, July 31, 2026
+- 📍 [Frances C. Arrillaga Alumni Center (326 Galvez St, Stanford, CA)](https://maps.app.goo.gl/VRgS4WshhgrDs5fFA)
+- Co-located with the [Science of Blockchain Conference 2026](https://www.sbc-conference.com/2026/)
 
-**[Registration](https://forms.gle/DX4zVUTguzwczpXaA): Attendance is free but registration is mandatory.**
+**Registration: Attendance is free but registration is mandatory. [Registration link](https://forms.gle/DX4zVUTguzwczpXaA)**
 
 ---
 
