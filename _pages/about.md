@@ -41,17 +41,59 @@ With a market capitalization of more than a trillion USD, Bitcoin is the world's
 
 **Schedule:**
 
-| Time | Event |
-|------|-------|
-| 9:30 – 10:00 | Breakfast |
-| 10:00 – 10:30 | **[BABE: Verifying proofs on Bitcoin made 1000x cheaper](https://eprint.iacr.org/2026/065)** — Srivatsan Sridhar (UC Berkeley) |
-| 10:30 – 11:00 | **[Duty-free bits: Projectivizing garbling schemes](https://eprint.iacr.org/2026/476)** — David Heath (UIUC) |
-| 11:00 – 11:30 | Coffee break |
-| 11:30 – 12:00 | **From cut-and-choose to constant-size proofs of garbling correctness** — Ariel Futoransky and Sergio Lerner (Fairgate Labs) |
-| 12:00 – 12:30 | **[Implementable witness encryption from arithmetic affine determinant programs](https://eprint.iacr.org/2026/175)** — Michel Abdalla ([[alloc]init]) |
-| 12:30 – 2:00 | Lunch break |
-| 2:00 – 2:30 | **TBD** — Dan Boneh (Stanford) |
-| 2:30 – 3:00 | **Flock: SHA256 proving, fast enough for post-quantum Bitcoin** — William Wang (NYU) |
-| 3:00 – 3:30 | Coffee break |
-| 3:30 – 4:00 | **[Ark: Offchain transaction batching in Bitcoin](https://arxiv.org/abs/2605.20952)** — Zeta Avarikioti (TU Vienna) |
-| 4:00 – 4:30 | **[Shielded CSV: Private and efficient client-side validation](https://eprint.iacr.org/2025/068)** — Robin Linus (Stanford, ZeroSync) |
+<table class="schedule-table">
+<tbody>
+<tr><td class="time">9:30 – 10:00</td><td>Breakfast</td></tr>
+<tr><td class="time">10:00 – 10:30</td><td>
+  <details>
+    <summary><strong><a href="https://eprint.iacr.org/2026/065">BABE: Verifying proofs on Bitcoin made 1000x cheaper</a></strong> — Srivatsan Sridhar (UC Berkeley)</summary>
+    <p><em>Abstract coming soon.</em></p>
+  </details>
+</td></tr>
+<tr><td class="time">10:30 – 11:00</td><td>
+  <details>
+    <summary><strong><a href="https://eprint.iacr.org/2026/476">Duty-free bits: Projectivizing garbling schemes</a></strong> — David Heath (UIUC)</summary>
+    <p><em>Abstract coming soon.</em></p>
+  </details>
+</td></tr>
+<tr><td class="time">11:00 – 11:30</td><td>Coffee break</td></tr>
+<tr><td class="time">11:30 – 12:00</td><td>
+  <details>
+    <summary><strong>From cut-and-choose to constant-size proofs of garbling correctness</strong> — Ariel Futoransky and Sergio Lerner (Fairgate Labs)</summary>
+    <p><em>Abstract coming soon.</em></p>
+  </details>
+</td></tr>
+<tr><td class="time">12:00 – 12:30</td><td>
+  <details>
+    <summary><strong><a href="https://eprint.iacr.org/2026/175">Implementable witness encryption from arithmetic affine determinant programs</a></strong> — Michel Abdalla ([[alloc]init])</summary>
+    <p><em>Abstract coming soon.</em></p>
+  </details>
+</td></tr>
+<tr><td class="time">12:30 – 2:00</td><td>Lunch break</td></tr>
+<tr><td class="time">2:00 – 2:30</td><td>
+  <details>
+    <summary><strong>TBD</strong> — Dan Boneh (Stanford)</summary>
+    <p><em>Abstract coming soon.</em></p>
+  </details>
+</td></tr>
+<tr><td class="time">2:30 – 3:00</td><td>
+  <details>
+    <summary><strong>Flock: SHA256 proving, fast enough for post-quantum Bitcoin</strong> — William Wang (NYU)</summary>
+    <p><em>Abstract coming soon.</em></p>
+  </details>
+</td></tr>
+<tr><td class="time">3:00 – 3:30</td><td>Coffee break</td></tr>
+<tr><td class="time">3:30 – 4:00</td><td>
+  <details>
+    <summary><strong><a href="https://arxiv.org/abs/2605.20952">Ark: Offchain transaction batching in Bitcoin</a></strong> — Zeta Avarikioti (TU Vienna)</summary>
+    <p><em>Abstract coming soon.</em></p>
+  </details>
+</td></tr>
+<tr><td class="time">4:00 – 4:30</td><td>
+  <details>
+    <summary><strong><a href="https://eprint.iacr.org/2025/068">Shielded CSV: Private and efficient client-side validation</a></strong> — Robin Linus (Stanford, ZeroSync)</summary>
+    <p><em>Abstract coming soon.</em></p>
+  </details>
+</td></tr>
+</tbody>
+</table>
