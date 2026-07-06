@@ -82,28 +82,30 @@ With a market capitalization of more than a trillion USD, Bitcoin is the world's
 </td></tr>
 <tr><td class="time">2:30 – 3:00</td><td>
   <details>
-    <summary><strong>Flock: SHA256 proving, fast enough for post-quantum Bitcoin</strong> — William Wang (NYU)</summary>
+    <summary><strong><a href="https://eprint.iacr.org/2026/1329.pdf">Flock: SHA256 proving, fast enough for post-quantum Bitcoin</a></strong> — William Wang (NYU)</summary>
     <p><em>For many applications of SNARKs, a key bottleneck is proving large batches of standard
-cryptographic hash evaluations, such as SHA-256, Keccak, or BLAKE3. We introduce Flock, a
-hash-based SNARK for extremely fast proving of such batched Boolean computations. Flock
-proves batches of the same R1CS circuit (plus input/output relations between them), can prove
-hash-chains and Merkle path openings, and in principle can be extended to full-fledged hash-
-based signature verification. At its core, Flock combines new optimizations for the lincheck and
-zerocheck protocols with an aggressively optimized proof-of-concept implementation co-designed
-by coding agents.</em></p>
-<p><em>On a single core of an M4 Max processor, Flock proves 82k evaluations of the BLAKE3
-compression function, 42k SHA-256 compressions, and 30k Keccak permutations per second —
-less than a 250x overhead over native execution. On ten cores, throughput exceeds 660k BLAKE3
-compressions per second; in proving SHA-256, Flock is more than 9x faster than Binius64, the
-prior state of the art, and more than 500x faster than the fastest elliptic curve-based SNARK
-we measured against.</em></p>
+    cryptographic hash evaluations, such as SHA-256, Keccak, or BLAKE3. We introduce Flock, a
+    hash-based SNARK for extremely fast proving of such batched Boolean computations. Flock
+    proves batches of the same R1CS circuit (plus input/output relations between them), can prove
+    hash-chains and Merkle path openings, and in principle can be extended to full-fledged hash-
+    based signature verification. At its core, Flock combines new optimizations for the lincheck and
+    zerocheck protocols with an aggressively optimized proof-of-concept implementation co-designed
+    by coding agents.</em></p>
+    <p><em>On a single core of an M4 Max processor, Flock proves 82k evaluations of the BLAKE3
+    compression function, 42k SHA-256 compressions, and 30k Keccak permutations per second —
+    less than a 250x overhead over native execution. On ten cores, throughput exceeds 660k BLAKE3
+    compressions per second; in proving SHA-256, Flock is more than 9x faster than Binius64, the
+    prior state of the art, and more than 500x faster than the fastest elliptic curve-based SNARK
+    we measured against.</em></p>
   </details>
 </td></tr>
 <tr><td class="time">3:00 – 3:30</td><td>Coffee break</td></tr>
 <tr><td class="time">3:30 – 4:00</td><td>
   <details>
     <summary><strong><a href="https://arxiv.org/abs/2605.20952">Ark: Offchain transaction batching in Bitcoin</a></strong> — Zeta Avarikioti (TU Vienna)</summary>
-    <p><em>Abstract coming soon.</em></p>
+    <p><em>Bitcoin is the cryptocurrency with the largest market capitalisation, but its widespread adoption is fundamentally limited by the scalability constraints of its consensus algorithm, which requires every transaction to be confirmed onchain. To address this, several Layer-2 scalability solutions have been proposed to move payments offchain -- most notably, the Lightning Network. However, their deployment remains hindered by cumbersome setup requirements: users must lock funds onchain to participate and engage in complex auxiliary protocols (e.g., for channel rebalancing, top-ups, and routing). Other solutions, like payment pools, sidechains and rollups, cannot be implemented in a non-custodial way on Bitcoin due to its limited scripting capabilities, or require all protocol participants to update the offchain state.</em></p>
+    <p><em>In this work, we present Ark, the first Bitcoin-compatible commit-chain. Ark enables offchain transactions of virtual UTXOs (VTXOs), through an untrusted operator who aggregates them into succinct onchain commitments. A distinctive feature of Ark is its ease of deployment: users can receive offchain payments without locking any funds beforehand and Ark state updates can be performed only requiring the users involved in that update.
+    We formally define the Ark protocol and prove its security. During this process, we identified two attacks affecting the testnet implementation, which we responsibly disclosed and proposed fixes for, which have been now integrated into the mainnet implementation. Our experimental evaluation demonstrates that Ark can commit onchain to batches of arbitrarily many VTXOs with a constant-sized footprint of approximately 200 vB. Cooperative exits add one output per user, while unilateral exits require O(log n) transactions of roughly 150 vB per VTXO for a batch of n VTXOs.</em></p>
   </details>
 </td></tr>
 <tr><td class="time">4:00 – 4:30</td><td>
