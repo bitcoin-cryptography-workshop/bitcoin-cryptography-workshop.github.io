@@ -111,7 +111,7 @@ With a market capitalization of more than a trillion USD, Bitcoin is the world's
 <tr><td class="time">4:00 – 4:30</td><td>
   <details>
     <summary><strong><a href="https://eprint.iacr.org/2025/068">Shielded CSV: Private and efficient client-side validation</a></strong> — Robin Linus (Stanford, ZeroSync)</summary>
-    <p><em>Abstract coming soon.</em></p>
+    <p><em>Shielded CSV is a client-side validation protocol for private, scalable cryptocurrency payments. It keeps transaction validation off-chain, writes only a 64-byte nullifier to the blockchain per transaction, and uses succinct coin proofs whose size and verification cost do not grow with transaction history. This makes it a promising way to add efficient private payments to Bitcoin and similar systems.</em></p>
   </details>
 </td></tr>
 </tbody>
