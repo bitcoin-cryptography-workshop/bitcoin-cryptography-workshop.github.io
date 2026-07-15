@@ -76,7 +76,7 @@ With a market capitalization of more than a trillion USD, Bitcoin is the world's
 <tr><td class="time">12:30 – 2:00</td><td>Lunch break</td></tr>
 <tr><td class="time">2:00 – 2:30</td><td>
   <details>
-    <summary><strong>TBD</strong> — Dan Boneh (Stanford)</summary>
+    <summary><strong>Post-quantum Signatures for Blockchains</strong> — Dan Boneh (Stanford)</summary>
     <p><em>Abstract coming soon.</em></p>
   </details>
 </td></tr>
