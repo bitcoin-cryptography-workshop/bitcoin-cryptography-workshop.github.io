@@ -7,7 +7,7 @@ subtitle:
 ---
 
 - 📅 Fri, July 31, 2026
-- 📍 [Frances C. Arrillaga Alumni Center (326 Galvez St, Stanford, CA)](https://maps.app.goo.gl/VRgS4WshhgrDs5fFA)
+- 📍 [Frances C. Arrillaga Alumni Center (326 Galvez St, Stanford, CA)](https://maps.app.goo.gl/VRgS4WshhgrDs5fFA) (Due to construction near the main entrance, please use the [side entrance off Campus Drive](https://maps.app.goo.gl/U5kYa7b9ugjurLuG7))
 - Co-located with the [Science of Blockchain Conference 2026](https://www.sbc-conference.com/2026/)
 
 **Registration: Attendance is free but registration is mandatory. [Registration link](https://forms.gle/DX4zVUTguzwczpXaA)**
