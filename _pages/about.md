@@ -43,8 +43,8 @@ With a market capitalization of more than a trillion USD, Bitcoin is the world's
 
 <table class="schedule-table">
 <tbody>
-<tr><td class="time">9:30 – 9:50</td><td>Registration</td></tr>
-<tr><td class="time">9:50 – 10:00</td><td>Welcome remarks</td></tr>
+<tr><td class="time">9:30 – 9:55</td><td>Registration</td></tr>
+<tr><td class="time">9:55 – 10:00</td><td>Welcome remarks</td></tr>
 <tr><td class="time">10:00 – 10:30</td><td>
   <details>
     <summary><strong><a href="https://eprint.iacr.org/2026/065">BABE: Verifying proofs on Bitcoin made 1000x cheaper</a></strong> — Srivatsan Sridhar (UC Berkeley)</summary>
