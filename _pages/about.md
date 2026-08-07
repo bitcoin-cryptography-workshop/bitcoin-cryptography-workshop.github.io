@@ -79,7 +79,7 @@ With a market capitalization of more than a trillion USD, Bitcoin is the world's
 <tr><td class="time">2:00 – 2:30</td><td>
   <details>
     <summary><strong>Post-quantum Signatures for Blockchains</strong> — Dan Boneh (Stanford)</summary>
-    <p><em>Abstract coming soon.</em></p>
+    <p><em>Due to the looming quantum threat, some major blockchains are planning to transition to post-quantum hash-based signatures.  These signatures lack some capabilities that blockchains are accustomed to.  This work aims to fill in some of the gaps.  This is joint work with Benedikt Bünz, Justin D., Yavor Litchev, and Kamilla Nazirkhanova.</em></p>
   </details>
 </td></tr>
 <tr><td class="time">2:30 – 3:00</td><td>
